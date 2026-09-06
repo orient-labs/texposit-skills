@@ -15,10 +15,15 @@ improve existing ones, and browse what others have written.
 
 ## Using a skill
 
-Copy a skill's directory into your TeXposit project's own `skills/` folder (via the
-project's AI Setup ▸ Manage Skills, or by adding the files directly if you sync your
-project with git). Project skills take precedence over any built-in skill of the same
-name.
+In your TeXposit project, open **Settings ▸ AI ▸ Skills**, create a new skill with the
+same slug as the one you want to use, and paste in its `SKILL.md` content. Project
+skills take precedence over any built-in skill of the same name.
+
+That UI edits a single `SKILL.md` file per skill — it doesn't yet support skills that
+ship extra files (a `GUIDE.md` or other resources alongside `SKILL.md`). If a skill in
+this repo has those, you'll need to add them to your project's `skills/<slug>/`
+directory some other way (e.g. through your project's own git history, if you sync it
+externally).
 
 ## Contributing a skill
 
