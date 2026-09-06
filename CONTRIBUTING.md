@@ -19,10 +19,14 @@ for the assistant to follow — not for a human reader:
 ---
 name: name-of-skill
 description: Concise, third-person summary including the triggers that should fire this skill.
+author: your.email@example.com
 ---
 # Name of Skill
 ... instructions for the assistant ...
 ```
+
+`author` is optional but recommended — an email TeXposit can show next to your skill
+in the app's "browse community skills" list, and use to reach you about it.
 
 ## Naming
 

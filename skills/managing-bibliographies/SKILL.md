@@ -1,6 +1,7 @@
 ---
 name: managing-bibliographies
 description: Use when the user asks to add a citation, fix a broken/missing reference, clean up a messy .bib file, resolve a duplicate or malformed BibTeX entry, or switch between natbib/biblatex citation styles.
+author: daniel.szabo@texposit.com
 ---
 # Managing Bibliographies
 

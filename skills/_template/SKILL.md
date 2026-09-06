@@ -1,6 +1,7 @@
 ---
 name: your-gerund-name-here
 description: One or two sentences, third person, stating what this skill does and the triggers that should fire it (e.g. "Use when the user asks to...").
+author: your.email@example.com
 ---
 # Title Matching the Skill Name
 

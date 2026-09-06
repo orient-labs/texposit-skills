@@ -1,6 +1,7 @@
 ---
 name: drawing-tikz-diagrams
 description: Use when the user asks to draw, sketch, or insert a diagram, plot, flowchart, tree, graph, or geometric figure directly in LaTeX rather than as an image upload — covers TikZ package setup, common diagram patterns, and recompiling to check the result renders correctly.
+author: daniel.szabo@texposit.com
 ---
 # Drawing TikZ Diagrams
 

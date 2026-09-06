@@ -1,6 +1,7 @@
 ---
 name: building-beamer-presentations
 description: Use when the user is writing a LaTeX Beamer presentation and asks to add/restructure slides, apply a theme, set up title/section slides, add speaker notes, or fix a Beamer-specific compile error (overfull frame, frame breaking, missing frame title).
+author: daniel.szabo@texposit.com
 ---
 # Building Beamer Presentations
 
